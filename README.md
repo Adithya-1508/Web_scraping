@@ -1,4 +1,6 @@
 Cyber Security Job Scraping with BeautifulSoup
+
+
 Project Description
 This project involves scraping various job listing websites to collect and analyze cybersecurity job postings. The script uses BeautifulSoup for web scraping and aims to provide users with up-to-date job listings and relevant information such as job titles, companies, locations, and application links.
 
