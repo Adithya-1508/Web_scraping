@@ -11,23 +11,6 @@ Prerequisites
 Python 3.7 or higher
 pip (Python package installer)
 Install Required Packages
-Clone the repository or download the project files:
-
-sh
-Copy code
-git clone https://github.com/yourusername/cybersecurity-job-scraper.git
-cd cybersecurity-job-scraper
-Install the required Python packages:
-
-sh
-Copy code
-beautifulsoup4==4.9.3
-requests==2.25.1
-pandas==1.2.4
-Usage
-
-
-sh
 
 python real_web.py
 View the Results:
