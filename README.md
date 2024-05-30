@@ -10,9 +10,9 @@ Setup Instructions
 Prerequisites
 Python 3.7 or higher
 pip (Python package installer)
-Install Required Packages
 
+Run the file:
 python real_web.py
-View the Results:
 
+View the Results:
 The script will generate various txt files for every successful job search and it will continue for every 10 minutes until stopped.
